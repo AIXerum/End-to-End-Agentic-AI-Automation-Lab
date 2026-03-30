@@ -51,7 +51,7 @@ By exploring this repository, you will:
 To clone the repository:
 
 ```bash
-git clone https://github.com/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab.git
+git clone https://github.com/AIXerum/End-to-End-Agentic-Ai-Automation-Lab.git
 ```
 
 Each folder will contain:
